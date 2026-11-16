@@ -1,6 +1,6 @@
 # Source provenance
 
-Original implementations and history: [gretchycat/infinifolder at 9233495](https://github.com/gretchycat/infinifolder/tree/9233495). Existing codecs/renderers are moved without rewriting algorithms; package names and notices are retained for compatibility. New adapters describe Stream inputs/actual outputs. Original-code license selection is pending (LICENSE.md).
+Original implementations and history: [gretchycat/infinifolder at 9233495](https://github.com/gretchycat/infinifolder/tree/9233495). Existing codecs/renderers are moved without rewriting algorithms; package names and notices are retained for compatibility. New adapters describe Stream inputs/actual outputs. Original code is licensed under MIT (LICENSE.md); third-party code retains its original license.
 
 | Original path | New path | SHA-256 before move |
 | --- | --- | --- |

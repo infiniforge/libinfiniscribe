@@ -91,7 +91,7 @@ and separates the portable modules from the Android JSON backend. Public package
 are now `io.github.gretchycat.infiniscribe.reparse`. No published compatibility
 package is removed; the host and its local runtime harness are migrated together.
 Stream metadata/processor integration and portable tests are new library adapters.
-Original-code licensing remains pending owner selection; see LICENSE.md.
+Original code is licensed under MIT; see LICENSE.md.
 
 SnakeYAML and TomlJ declare Apache-2.0; ANTLR runtime declares BSD-3-Clause.
 Dependency versions are pinned above. License texts are bundled under each

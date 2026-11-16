@@ -27,7 +27,7 @@ Build the JVM module using JDK 17+ and Gradle 9.7.1: `./gradlew -PportableOnly :
 
 Source dependencies are pinned in `dependencies.lock.json` and fetched inside this checkout. No sibling source directories are used.
 
-Original-code licensing is pending owner selection; see LICENSE.md. No original implementation is rewritten or relicensed by this move.
+Original code is licensed under MIT; third-party components retain their own terms. The extraction did not rewrite the original implementation.
 
 ## Current boundary
 
