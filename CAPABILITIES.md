@@ -59,7 +59,7 @@ tests invoke actual services/parsers rather than scripted success responses.
 
 ## New format modules
 
-New document, text, spreadsheet, font, and structured-text handlers must validate content with their parser or encoding checks, then expose source-derived metadata through `MetadataCapabilityHandler`. For text, encoding and decoded length are useful facts; for documents, report only parsed structure and fields. Follow the shared [Stream conformance rule](../libinfinistream/CAPABILITIES.md#format-module-validation-and-metadata-requirements).
+New document, text, spreadsheet, font, and structured-text handlers must validate content with their parser or encoding checks, then expose source-derived metadata through `MetadataCapabilityHandler`. For text, encoding and decoded length are useful facts; for documents, report only parsed structure and fields. Follow the shared [Stream conformance rule](https://github.com/infiniforge/libinfinistream/blob/main/CAPABILITIES.md#format-module-validation-and-metadata-requirements).
 
 ## Host audit record
 
