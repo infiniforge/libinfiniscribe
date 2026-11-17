@@ -69,7 +69,7 @@ namespaced font extension. The core has no Android types; Gson 2.11.0 is its JSO
 dependency (Apache 2.0 notice/license bundled in the core JAR).
 
 See `schema/text-theme.schema.json`, `examples/custom-text-theme.json`, and the host's
-`docs/syntax-highlighting.md` for supported selectors, bounds and limitations.
+[InfiniScribe's syntax-highlighting guide](https://github.com/infiniforge/infiniscribe/blob/main/docs/syntax-highlighting.md) for supported selectors, bounds and limitations.
 These lexical profiles do not implement the full TextMate grammar interpreter.
 
 ## PDF pages (Android backend)
